@@ -1,0 +1,4 @@
+name	total_scgs	supporting_scgs	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+Ecoli_0157H7_Sakai	22	22	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	None	None
+Ecoli_CFT073	22	22	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	None	None
+Ecoli_k12_MG1655	22	22	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	None	None

@@ -1,0 +1,28 @@
+# Genomes and downloaded data
+ecoli/
+bfragilis/
+pilot_genomes.zip
+ecoli_meta.jsonl
+*.fna
+*.faa
+*.gff
+*.gz
+*.zip
+
+# Databases
+backup_db/
+db/
+*.db
+
+# Analysis results
+dbcan/
+dbcan_teacher/
+output_*/
+
+# Logs
+*.log
+blast-log.txt
+diamond-log-file.txt
+
+# Personal documents
+*.docx

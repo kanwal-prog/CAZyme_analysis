@@ -1,0 +1,5 @@
+name	total_scgs	supporting_scgs	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+Bfrag_NCTC9343	22	20	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	None
+Bfrag_YCH46	22	21	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	None
+Bfrag_ZY0302	22	20	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	None
+Bfrag_ZY0804	22	20	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	None
