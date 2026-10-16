@@ -1,0 +1,29 @@
+substrate	B. fragilis NCTC9343	B. fragilis YCH46	B. fragilis ZY0302	B. fragilis ZY0804	E. coli K12	E. coli O157:H7 Sakai	E. coli CFT073
+host glycan	14	14	15	15	0	0	0
+xylan	6	5	5	5	1	0	1
+pectin	4	4	4	3	0	0	1
+beta-glucan	4	3	4	3	0	0	0
+mucin	3	3	3	3	0	0	0
+alpha-mannan	2	3	2	3	0	0	0
+glycosaminoglycan	1	1	1	1	1	2	2
+starch	1	1	1	1	1	3	1
+galactomannan	2	1	2	2	0	0	0
+beta-mannan	1	3	1	1	0	0	0
+cellulose	1	1	0	0	1	1	1
+fructan	2	1	1	1	0	0	0
+arabinan	1	1	1	0	0	1	0
+cellobiose	0	0	0	0	2	1	1
+hemicellulose	1	1	1	1	0	0	0
+human milk oligosaccharide	0	0	0	0	2	2	0
+arabinoxylan	1	1	0	1	0	0	0
+beta-galactooligosaccharide	0	0	0	0	1	1	1
+chitin	0	0	0	0	1	1	1
+galactooligosaccharide	1	0	1	1	0	0	0
+lactose	0	0	0	0	1	1	1
+trehalose	0	0	0	0	1	1	1
+arabinogalactan	0	0	1	1	0	0	0
+glycogen	0	0	0	0	0	1	1
+melibiose	0	0	0	0	1	1	0
+raffinose	0	0	0	0	1	0	1
+xyloglucan	0	0	0	0	1	0	1
+beta-glucoside	0	0	0	0	0	0	1

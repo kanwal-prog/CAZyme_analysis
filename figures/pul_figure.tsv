@@ -1,0 +1,181 @@
+PUL	substrate	genome	CGC	bitscore	protein_id	start	end	strand	type	label	NCBI_product
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_010992144.1	0	1193	+	Transporter	TC	multidrug effflux MFS transporter
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_010992143.1	1693	3909	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_010992142.1	3948	4502	+	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_010992141.1	4555	5553	+	Regulator (TF/STP)	STP	FecR family protein
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_005796236.1	5583	7850	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_032573600.1	7953	10223	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_010992139.1	10469	13885	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0380	mucin	Bfrag_NCTC9343	NC_003228.3|CGC21	3739	WP_005784821.1	13908	15641	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_005784833.1	0	1193	+	Transporter	TC	multidrug effflux MFS transporter
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_008658550.1	1692	3908	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_005784829.1	3947	4501	+	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_011202126.1	4554	5552	+	Regulator (TF/STP)	STP	FecR family protein
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_011202125.1	5582	7849	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_005796237.1	7952	10222	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_005784823.1	10468	13884	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0380	mucin	Bfrag_YCH46	NC_006347.1|CGC22	3799	WP_005784821.1	13907	15640	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0380	mucin	Bfrag_ZY0302	NZ_CP139162.1|CGC38	3710	WP_005813315.1	0	2216	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_ZY0302	NZ_CP139162.1|CGC38	3710	WP_005784829.1	2255	2809	+	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0380	mucin	Bfrag_ZY0302	NZ_CP139162.1|CGC38	3710	WP_005796235.1	2862	3860	+	Regulator (TF/STP)	STP	FecR family protein
+PUL0380	mucin	Bfrag_ZY0302	NZ_CP139162.1|CGC38	3710	WP_005813321.1	3890	6157	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_ZY0302	NZ_CP139162.1|CGC38	3710	WP_005813323.1	6260	8530	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_ZY0302	NZ_CP139162.1|CGC38	3710	WP_005796238.1	8776	12192	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0380	mucin	Bfrag_ZY0302	NZ_CP139162.1|CGC38	3710	WP_005813325.1	12215	13948	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0380	mucin	Bfrag_ZY0804	NZ_CP139161.1|CGC39	4553	WP_280202806.1	0	2216	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_ZY0804	NZ_CP139161.1|CGC39	4553	WP_010992142.1	2255	2809	+	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0380	mucin	Bfrag_ZY0804	NZ_CP139161.1|CGC39	4553	WP_010992141.1	2862	3860	+	Regulator (TF/STP)	STP	FecR family protein
+PUL0380	mucin	Bfrag_ZY0804	NZ_CP139161.1|CGC39	4553	WP_280202804.1	3890	6157	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_ZY0804	NZ_CP139161.1|CGC39	4553	WP_032569815.1	6260	8530	+	CAZyme	GH92	GH92 family glycosyl hydrolase
+PUL0380	mucin	Bfrag_ZY0804	NZ_CP139161.1|CGC39	4553	WP_280202801.1	8776	12192	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0380	mucin	Bfrag_ZY0804	NZ_CP139161.1|CGC39	4553	WP_005813325.1	12215	13948	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_010992427.1	1566059	1568074	+	CAZyme	GH97	glycoside hydrolase family 97 protein
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005786040.1	1568051	1568650	-	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005786042.1	1568816	1569826	+	Regulator (TF/STP)	STP	FecR domain-containing protein
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005786045.1	1570137	1573442	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005786046.1	1573455	1574999	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005786048.1	1575027	1576079	+	CAZyme	GH18	glycoside hydrolase family 18
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_041926311.1	1576097	1577233	+	Other		DUF1735 and LamG domain-containing protein
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005800908.1	1577256	1578269	+	Other		BT_3987 domain-containing protein
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005786054.1	1578518	1579786	+	Transporter	TC	MFS transporter
+PUL0556	host glycan	Bfrag_NCTC9343	NC_003228.3|CGC35	7856	WP_005786056.1	1579841	1580839	+	CAZyme	GH130	glycoside hydrolase family 130 protein
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_011202360.1	1562056	1564071	+	CAZyme	GH97	glycoside hydrolase family 97 protein
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_005786040.1	1564048	1564647	-	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_008768135.1	1564813	1565823	+	Regulator (TF/STP)	STP	FecR domain-containing protein
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_005786045.1	1566133	1569438	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_005786046.1	1569451	1570995	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_005786048.1	1571023	1572075	+	CAZyme	GH18	glycoside hydrolase family 18
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_011202361.1	1572093	1573229	+	Other		DUF1735 and LamG domain-containing protein
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_011202362.1	1573252	1574265	+	Other		BT_3987 domain-containing protein
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_005786054.1	1574515	1575783	+	Transporter	TC	MFS transporter
+PUL0556	host glycan	Bfrag_YCH46	NC_006347.1|CGC35	7858	WP_005786056.1	1575838	1576836	+	CAZyme	GH130	glycoside hydrolase family 130 protein
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_407325926.1	2341249	2343264	+	CAZyme	GH97	glycoside hydrolase family 97 protein
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005786040.1	2343241	2343840	-	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005786042.1	2344006	2345016	+	Regulator (TF/STP)	STP	FecR domain-containing protein
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005786045.1	2345327	2348632	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005800914.1	2348645	2350189	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005786048.1	2350217	2351269	+	CAZyme	GH18	glycoside hydrolase family 18
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005816452.1	2351287	2352423	+	Other		DUF1735 and LamG domain-containing protein
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005816454.1	2352446	2353456	+	Other		BT_3987 domain-containing protein
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005786054.1	2353706	2354974	+	Transporter	TC	MFS transporter
+PUL0556	host glycan	Bfrag_ZY0302	NZ_CP139162.1|CGC51	7843	WP_005786056.1	2355029	2356027	+	CAZyme	GH130	glycoside hydrolase family 130 protein
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_280203283.1	2399976	2401991	+	CAZyme	GH97	glycoside hydrolase family 97 protein
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_005786040.1	2401968	2402567	-	Regulator (TF/STP)	STP	RNA polymerase sigma-70 factor
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_280203285.1	2402733	2403743	+	Regulator (TF/STP)	STP	FecR domain-containing protein
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_005786045.1	2404055	2407360	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_280203286.1	2407373	2408917	+	SusD	SusD	SusD/RagB family nutrient-binding outer membrane lipoprotein
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_005786048.1	2408945	2409997	+	CAZyme	GH18	glycoside hydrolase family 18
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_280203287.1	2410015	2411151	+	Other		DUF1735 and LamG domain-containing protein
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_032561010.1	2411174	2412187	+	Other		BT_3987 domain-containing protein
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_005786054.1	2412436	2413704	+	Transporter	TC	MFS transporter
+PUL0556	host glycan	Bfrag_ZY0804	NZ_CP139161.1|CGC52	7838	WP_005786056.1	2413759	2414757	+	CAZyme	GH130	glycoside hydrolase family 130 protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_041926284.1	5024377	5027655	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_005797392.1	5027668	5029668	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_041926285.1	5030726	5033881	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_041926286.1	5033911	5035764	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_005791963.1	5035807	5036286	+	Other		DUF5018-related domain-containing protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_010993781.1	5036515	5038332	+	CAZyme	GH110	right-handed parallel beta-helix repeat-containing protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_005797382.1	5038345	5039472	+	Transporter	TC	acyltransferase family protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_010993782.1	5039774	5040079	-	Other		hypothetical protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_010993783.1	5040117	5043164	+	Other		glycoside hydrolase domain-containing protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_005791960.1	5043254	5045743	+	CAZyme	GH95	glycoside hydrolase family 95 protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_005791958.1	5046824	5050084	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0479	pectin	Bfrag_NCTC9343	NC_003228.3|CGC93	693	WP_005797378.1	5050099	5052126	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005791968.1	5091472	5094750	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005797392.1	5094763	5096763	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005797388.1	5097822	5100977	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_011203703.1	5101007	5102860	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005791963.1	5102903	5103382	+	Other		DUF5018-related domain-containing protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_011203704.1	5103610	5105427	+	CAZyme	GH110	right-handed parallel beta-helix repeat-containing protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005803908.1	5105440	5106567	+	Transporter	TC	acyltransferase family protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_011203706.1	5106870	5107175	-	Other		hypothetical protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_011203707.1	5107213	5110260	+	Other		glycoside hydrolase domain-containing protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005791960.1	5110350	5112839	+	CAZyme	GH95	glycoside hydrolase family 95 protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005791958.1	5113920	5117180	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0479	pectin	Bfrag_YCH46	NC_006347.1|CGC91	695	WP_005791957.1	5117195	5119222	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005814139.1	675082	678237	+	SusC	SusC	TonB-dependent receptor
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005791964.1	678267	680120	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005791963.1	680163	680642	+	Other		DUF5018-related domain-containing protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005814138.1	680870	682687	+	CAZyme	GH110	right-handed parallel beta-helix repeat-containing protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005814136.1	682700	683827	+	Transporter	TC	acyltransferase family protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005814134.1	684130	684435	-	Other		hypothetical protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005814132.1	684473	687520	+	Other		glycoside hydrolase domain-containing protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005814130.1	687610	690099	+	CAZyme	GH95	glycosyl hydrolase family 95 catalytic domain-containing protein
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005791958.1	691180	694440	+	SusC	SusC	TonB-dependent receptor
+PUL0479	pectin	Bfrag_ZY0302	NZ_CP139162.1|CGC14	695	WP_005797378.1	694455	696482	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_407322366.1	741742	744897	+	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_280203383.1	744927	746780	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_005791963.1	746823	747302	+	Other		DUF5018-related domain-containing protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_269109554.1	747530	749347	+	CAZyme	GH110	right-handed parallel beta-helix repeat-containing protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_005791961.1	749360	750487	+	Transporter	TC	acyltransferase family protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_280203382.1	750790	751095	-	Other		hypothetical protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_032557700.1	751133	754180	+	Other		glycoside hydrolase domain-containing protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_005791960.1	754270	756759	+	CAZyme	GH95	glycosyl hydrolase family 95 catalytic domain-containing protein
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_005791958.1	757840	761100	+	SusC	SusC	TonB-dependent receptor
+PUL0479	pectin	Bfrag_ZY0804	NZ_CP139161.1|CGC16	694	WP_005797378.1	761115	763142	+	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_010993283.1	3664551	3667412	-	CAZyme	CBM98+CBM48	alpha-amylase family glycosyl hydrolase
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_010993284.1	3667517	3669115	-	Transporter	TC	SusF/SusE family outer membrane protein
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_010993285.1	3669151	3670770	-	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_005789575.1	3670781	3673789	-	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_005789577.1	3674105	3675115	+	Regulator (TF/STP)	TF	LacI family DNA-binding transcriptional regulator
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_010993286.1	3675136	3676452	+	Transporter	TC	MFS transporter
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_010993287.1	3676805	3679120	+	CAZyme	GH65	family 65 glycosyl hydrolase domain-containing protein
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_005789585.1	3679472	3680524	+	Other		efflux RND transporter periplasmic adaptor subunit
+PUL0166	starch	Bfrag_NCTC9343	NC_003228.3|CGC68	6781	WP_008661179.1	3680667	3683702	+	Transporter	TC	efflux RND transporter permease subunit
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_011203230.1	3755847	3758708	-	CAZyme	CBM98+CBM48	alpha-amylase family glycosyl hydrolase
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_011203231.1	3758813	3760411	-	Transporter	TC	SusF/SusE family outer membrane protein
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_005789572.1	3760447	3762066	-	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_005798907.1	3762077	3765085	-	SusC	SusC	SusC/RagA family TonB-linked outer membrane protein
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_005789577.1	3765401	3766411	+	Regulator (TF/STP)	TF	LacI family DNA-binding transcriptional regulator
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_005814920.1	3766432	3767748	+	Transporter	TC	MFS transporter
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_009292939.1	3768099	3770414	+	CAZyme	GH65	glycoside hydrolase family 65 protein
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_005789585.1	3770766	3771818	+	Other		efflux RND transporter periplasmic adaptor subunit
+PUL0166	starch	Bfrag_YCH46	NC_006347.1|CGC68	6777	WP_005798910.1	3771961	3774996	+	Transporter	TC	efflux RND transporter permease subunit
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005814923.1	4425944	4428805	-	CAZyme	CBM98+CBM48	alpha-amylase family glycosyl hydrolase
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_182115646.1	4428910	4430508	-	Transporter	TC	SusF/SusE family outer membrane protein
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005789572.1	4430544	4432163	-	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005789575.1	4432174	4435182	-	SusC	SusC	TonB-dependent receptor
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005789577.1	4435498	4436508	+	Regulator (TF/STP)	TF	LacI family DNA-binding transcriptional regulator
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005814920.1	4436529	4437845	+	Transporter	TC	MFS transporter
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005814918.1	4438196	4440511	+	CAZyme	GH65	glycoside hydrolase family 65 protein
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005789585.1	4440863	4441915	+	Other		efflux RND transporter periplasmic adaptor subunit
+PUL0166	starch	Bfrag_ZY0302	NZ_CP139162.1|CGC85	6789	WP_005814915.1	4442058	4445093	+	Transporter	TC	efflux RND transporter permease subunit
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_280203465.1	4507662	4510523	-	CAZyme	CBM98+CBM48	alpha-amylase family glycosyl hydrolase
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_005802810.1	4510628	4512226	-	Transporter	TC	SusF/SusE family outer membrane protein
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_005798906.1	4512262	4513881	-	SusD	SusD	RagB/SusD family nutrient uptake outer membrane protein
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_005798907.1	4513892	4516900	-	SusC	SusC	TonB-dependent receptor
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_005789577.1	4517216	4518226	+	Regulator (TF/STP)	TF	LacI family DNA-binding transcriptional regulator
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_005798908.1	4518247	4519563	+	Transporter	TC	MFS transporter
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_280203464.1	4519916	4522231	+	CAZyme	GH65	family 65 glycosyl hydrolase domain-containing protein
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_005789585.1	4522583	4523635	+	Other		efflux RND transporter periplasmic adaptor subunit
+PUL0166	starch	Bfrag_ZY0804	NZ_CP139161.1|CGC85	6772	WP_005798910.1	4523778	4526813	+	Transporter	TC	efflux RND transporter permease subunit
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415825.4	1370216	1371895	+	CAZyme	GH13	glucosylglycerate phosphorylase
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415826.1	1371909	1373201	+	Transporter	TC	putative ABC transporter periplasmic binding protein YcjN
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415827.1	1373222	1374103	+	Transporter	TC	putative ABC transporter membrane subunit YcjO
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415828.1	1374090	1374932	+	Transporter	TC	putative ABC transporter membrane subunit YcjP
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415829.1	1374963	1376015	+	Other		D-guloside 3-dehydrogenase
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415830.2	1376034	1376822	+	Other		3-dehydro-D-guloside 4-epimerase
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415831.1	1376832	1377887	+	CAZyme	GH179	D-glucoside 3-dehydrogenase
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415832.1	1377884	1380151	+	CAZyme	GH65	kojibiose phosphorylase
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415833.1	1380148	1380807	+	Other		beta-phosphoglucomutase
+PUL0230	starch	Ecoli_k12_MG1655	NC_000913.3|CGC19	410	NP_415835.1	1381947	1382852	+	Transporter	TC	outer membrane porin G
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309917.1	1881174	1882055	+	Transporter	TC	sugar ABC transporter permease
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309918.1	1882042	1882884	+	Transporter	TC	sugar ABC transporter permease
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309919.1	1882915	1883967	+	Other		Zn-dependent NAD(P)-binding oxidoreductase
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309920.1	1883985	1884773	+	Other		TIM alpha/beta barrel enzyme
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309921.1	1884783	1885838	+	CAZyme	GH179	NADH-binding oxidoreductase
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309922.1	1885835	1888102	+	CAZyme	GH65	glycosyl hydrolase
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309923.1	1888099	1888758	+	Other		beta-phosphoglucomutase
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309924.1	1888772	1889854	+	Transporter	TC	sugar transporter subunit
+PUL0230	starch	Ecoli_0157H7_Sakai	NC_002695.2|CGC20	804	NP_309925.1	1889899	1890804	+	Transporter	TC	outer membrane porin G
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_001441953.1	1612896	1614575	+	CAZyme	GH13	glucosylglycerate phosphorylase
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_000597415.1	1614589	1615881	+	Transporter	TC	ABC transporter substrate-binding protein
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_001080774.1	1615902	1616783	+	Transporter	TC	carbohydrate ABC transporter permease
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_000224675.1	1616770	1617612	+	Transporter	TC	carbohydrate ABC transporter permease
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_000737369.1	1617643	1618695	+	Other		zinc-dependent alcohol dehydrogenase
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_001441954.1	1618714	1619502	+	Other		sugar phosphate isomerase/epimerase family protein
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_000833590.1	1619512	1620567	+	CAZyme	GH179	Gfo/Idh/MocA family protein
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_000620931.1	1620564	1622831	+	CAZyme	GH65	kojibiose phosphorylase
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_000775772.1	1622828	1623487	+	Other		beta-phosphoglucomutase
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_000057992.1	1623501	1624583	+	Transporter	TC	ABC transporter ATP-binding protein
+PUL0230	starch	Ecoli_CFT073	NC_004431.1|CGC21	800	WP_001304408.1	1624628	1625533	+	Transporter	TC	monomeric porin OmpG
