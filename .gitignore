@@ -29,3 +29,6 @@ diamond-log-file.txt
 
 # output of scripts/simple_one_genome.sh
 simple_output/
+
+# separate repo: kanwal-prog/Anvio_pangenome_analysis
+pangenome_analysis/
