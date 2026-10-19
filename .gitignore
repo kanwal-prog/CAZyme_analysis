@@ -26,3 +26,6 @@ diamond-log-file.txt
 
 # Personal documents
 *.docx
+
+# output of scripts/simple_one_genome.sh
+simple_output/

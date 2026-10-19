@@ -32,6 +32,7 @@ scripts/
   plot_substrates.py        substrate heatmap / stacked / grouped bars
   cazyme_circos.py          CAZyme circos plot per genome
   pul_figure.py             PUL gene maps across genomes
+  simple_one_genome.sh      the same dbCAN steps for ONE genome, written like the teacher's example
 ecoli/, bfragilis/          genomes (.fna)                      not on GitHub
 dbcan_teacher/<genome>/     dbCAN results                       not on GitHub
 figures/                    all figures + a .tsv of the numbers behind each
