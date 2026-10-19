@@ -37,7 +37,7 @@ ecoli/, bfragilis/          genomes (.fna)                      not on GitHub
 dbcan_teacher/<genome>/     dbCAN results                       not on GitHub
 figures/                    all figures + a .tsv of the numbers behind each
 old/                        earlier versions, kept for reference - do not use
-pangenome_analysis/         Anvi'o pangenome, ANI, AMR/HGT, secretion - separate repo:
+pangenome_analysis/         Anvi'o pangenome, ANI, AMR/HGT - separate repo:
                             github.com/kanwal-prog/Anvio_pangenome_analysis
 ```
 
