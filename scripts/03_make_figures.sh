@@ -5,8 +5,8 @@
 #   bash scripts/03_make_figures.sh
 #
 # Output in figures/:
-#   teacher_style/fig1_cazyme_abundance   CAZymes per genome            (teacher's plot_dbcan.py)
-#   teacher_style/fig2_pul_substrates     stacked PUL substrates        (teacher's plot_dbcan.py)
+#   dbcan_summary/fig1_cazyme_abundance   CAZymes per genome            (teacher's plot_dbcan.py)
+#   dbcan_summary/fig2_pul_substrates     stacked PUL substrates        (teacher's plot_dbcan.py)
 #   substrate_heatmap                     substrate x genome heatmap    (plot_substrates.py)
 #   substrate_stacked                     stacked substrates            (plot_substrates.py)
 #   circos_<genome>                       CAZyme circos plot per genome (cazyme_circos.py)
@@ -26,9 +26,9 @@ while IFS=$'\t' read -r name _ _ label; do
   labels+=("$label")
 done < <(tail -n +2 genomes.tsv)
 
-echo "== teacher's figures (PDF + PNG)"
+echo "== CAZyme counts and PUL substrates (PDF + PNG)"
 for fmt in pdf png; do
-  python scripts/plot_dbcan.py -i "${dirs[@]}" -l "${labels[@]}" --fmt $fmt -o figures/teacher_style
+  python scripts/plot_dbcan.py -i "${dirs[@]}" -l "${labels[@]}" --fmt $fmt -o figures/dbcan_summary
 done
 
 echo "== substrate heatmap and stacked bars"

@@ -54,8 +54,8 @@ A CAZyme is counted when at least 2 of dbCAN's 3 tools agree (`#ofTools >= 2`).
 
 | File | Shows |
 |---|---|
-| `teacher_style/fig1_cazyme_abundance` | number of CAZymes per genome |
-| `teacher_style/fig2_pul_substrates` | predicted PUL substrates per genome, stacked |
+| `dbcan_summary/fig1_cazyme_abundance` | number of CAZymes per genome |
+| `dbcan_summary/fig2_pul_substrates` | predicted PUL substrates per genome, stacked |
 | `substrate_heatmap` | substrate x genome heatmap (number of clusters) |
 | `substrate_stacked` | stacked substrates (counts dbCAN-sub substrate when no PUL matched) |
 | `circos_<genome>` | CAZymes by class and strand, clusters by substrate group, GC skew |
